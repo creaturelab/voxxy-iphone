@@ -61,15 +61,25 @@ By using our application, you grant to our application the right to have access 
 USE OF YOUR INFORMATION
 
 Having accurate information about you permits us to provide you with a smooth, efficient, and customized experience. Specifically, we may use information collected about you via the Application to:
+
 ● Assist law enforcement and respond to subpoenas.
+
 ● Create and manage your account.
+
 ● Email you regarding your account or order.
+
 ● Fulfill and manage purchases, orders, payments, and other transactions related to the Application.
+
 ● Increase the efficiency and operation of the Application.
+
 ● Monitor and analyze usage and trends to improve your experience with the Application.
+
 ● Prevent fraudulent transactions, monitor against theft, and protect against criminal activity.
+
 ● Resolve disputes and troubleshoot problems.
+
 ● Respond to product and customer service requests.
+
 ● Solicit support for the Application.
 
 DISCLOSURE OF YOUR INFORMATION
