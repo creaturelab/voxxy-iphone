@@ -36,8 +36,8 @@ CONTACTS
 Used for permissions that are associated with accessing contact list from the device.
 
 This permission allows this application to imports your list of contacts from your phone’s address book. You can use our application to call/message to your friends/family by selecting their contact without entering their phone number.
-<br>
 
+<br>
 MICROPHONE
 
 Used for permissions that are associated with accessing microphone audio from the device.
