@@ -28,28 +28,28 @@ We may request access or permission to certain features from your mobile device,
 
 **Privacy-relevant permissions requested by this app**
 
-**CONTACTS**
+CONTACTS
 
 Used for permissions that are associated with accessing contact list from the device.
 
 This permission allows this application to imports your list of contacts from your phone’s address book. You can use our application to call/message to your friends/family by selecting their contact without entering their phone number.
 
 
-**MICROPHONE**
+MICROPHONE
 
 Used for permissions that are associated with accessing microphone audio from the device.
 
 This permission allows this application to capture audio when you use our application to make audio or video calls.
 
 
-**NOTIFICATIONS**
+NOTIFICATIONS
 
 Used for permissions that are associated with push notification and VoIP push notification.
 
 This permission allows this application to receive messages or alerts from our services.
 
 
-**CAMERA**
+CAMERA
 
 Used for permissions that are associated with accessing the camera or capturing images or videos from the device.
 
@@ -86,21 +86,21 @@ Having accurate information about you permits us to provide you with a smooth, e
 
 We may share information we have collected about you in certain situations. Your information may be disclosed as follows:
 
-### By Law or to Protect Rights
+**By Law or to Protect Rights**
 
 If we believe the release of information about you is necessary to respond to legal process, to investigate or remedy potential violations of our policies, or to protect the rights, property, and safety of others, we may share your information as permitted or required by any applicable law, rule, or regulation. This includes exchanging information with other entities for fraud protection and credit risk reduction.
 
-### Other Third Parties
+**Other Third Parties**
 
 We may share your information with advertisers and investors for the purpose of conducting general business analysis. We may also share your information with such third parties for marketing purposes, as permitted by law.
 
-### Sale or Bankruptcy
+**Sale or Bankruptcy**
 
 If we reorganize or sell all or a portion of our assets, undergo a merger, or are acquired by another entity, we may transfer your information to the successor entity.  If we go out of business or enter bankruptcy, your information would be an asset transferred or acquired by a third party. You acknowledge that such transfers may occur and that the transferee may decline honor commitments we made in this Privacy Policy. We are not responsible for the actions of third parties with whom you share personal or sensitive data, and we have no authority to manage or control third-party solicitations. If you no longer wish to receive correspondence, emails or other communications from third parties, you are responsible for contacting the third party directly.
 
 ### TRACKING TECHNOLOGIES
 
-### Cookies and Web Beacons
+**Cookies and Web Beacons**
 
 We may use cookies, web beacons, tracking pixels, and other tracking technologies on the Application to help customize the Application and improve your experience.
 
