@@ -36,19 +36,16 @@ CONTACTS
 Used for permissions that are associated with accessing contact list from the device.<br>
 This permission allows this application to imports your list of contacts from your phone’s address book. You can use our application to call/message to your friends/family by selecting their contact without entering their phone number.
 
-<br>
 MICROPHONE
 
 Used for permissions that are associated with accessing microphone audio from the device.<br>
 This permission allows this application to capture audio when you use our application to make audio or video calls.
 
-<br>
 NOTIFICATIONS
 
 Used for permissions that are associated with push notification and VoIP push notification.<br>
 This permission allows this application to receive messages or alerts from our services.
 
-<br>
 CAMERA
 
 Used for permissions that are associated with accessing the camera or capturing images or videos from the device.<br>
