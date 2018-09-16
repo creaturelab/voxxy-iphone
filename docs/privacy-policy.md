@@ -12,20 +12,18 @@ This Privacy Policy does not apply to the third-party online/mobile store from w
 
 We may collect information about you in a variety of ways. The information we may collect via the Application depends on the content and materials you use, and includes:
 
-
 ### Personal Data
 
 While using our application, we may ask you to provide us with certain personally identifiable information (username, email address, phone number) that can be used to contact or identify you. Personally identifiable information may include, but is not limited to your name (“Personal Information”).
 
- 
-Derivative Data
+### Derivative Data
 
 Information our servers automatically collect when you access the Application, such as your native actions that are integral to the Application, including interactions with the Application via server log files. This log data may include information such as your phone’s Internet Protocol (“IP”) address, the time and date of your visit, the time spent on the Application and other statistics.
 
 In addition, we may use third party services that collect, monitor and analyze this.
 
 
-Mobile Device Access
+### Mobile Device Access
 
 We may request access or permission to certain features from your mobile device, including your mobile device’s camera, microphone, and other features. If you wish to change our access or permissions, you may do so in your device’s settings.
 
