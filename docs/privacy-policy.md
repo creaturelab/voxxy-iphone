@@ -29,6 +29,7 @@ We may request access or permission to certain features from your mobile device,
 Privacy-relevant permissions requested by this app
 
 CONTACTS
+
 Used for permissions that are associated with accessing contact list from the device.
 
 This permission allows this application to imports your list of contacts from your phone’s address book. You can use our application to call/message to your friends/family by selecting their contact without entering their phone number.
@@ -42,6 +43,7 @@ This permission allows this application to capture audio when you use our applic
 
 
 NOTIFICATIONS
+
 Used for permissions that are associated with push notification and VoIP push notification.
 
 This permission allows this application to receive messages or alerts from our services.
@@ -55,10 +57,12 @@ This permission allows this application to capture images or videos in order for
 By using our application, you grant to our application the right to have access and display all media content (e.g. audio & video recordings and text communications) that you upload, send, or otherwise exchange with our services, for the only purposes of operating our services. We only access to the files stored on your device when you send it in text messages with our application.
 
 
-USE OF YOUR INFORMATION
+### USE OF YOUR INFORMATION
 
 Having accurate information about you permits us to provide you with a smooth, efficient, and customized experience. Specifically, we may use information collected about you via the Application to:
-? Assist law enforcement and respond to subpoenas.
+
+- Assist law enforcement and respond to subpoenas.
+
 ? Create and manage your account.
 ? Email you regarding your account or order.
 ? Fulfill and manage purchases, orders, payments, and other transactions related to the Application.
@@ -69,7 +73,7 @@ Having accurate information about you permits us to provide you with a smooth, e
 ? Respond to product and customer service requests.
 ? Solicit support for the Application.
 
-DISCLOSURE OF YOUR INFORMATION
+### DISCLOSURE OF YOUR INFORMATION
 
 We may share information we have collected about you in certain situations. Your information may be disclosed as follows:
 
