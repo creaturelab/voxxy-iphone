@@ -22,11 +22,9 @@ Information our servers automatically collect when you access the Application, s
 
 In addition, we may use third party services that collect, monitor and analyze this.
 
-
 ### Mobile Device Access
 
 We may request access or permission to certain features from your mobile device, including your mobile device’s camera, microphone, and other features. If you wish to change our access or permissions, you may do so in your device’s settings.
-
 
 Privacy-relevant permissions requested by this app
 
