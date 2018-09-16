@@ -8,12 +8,12 @@ We reserve the right to make changes to this Privacy Policy at any time and for 
 
 This Privacy Policy does not apply to the third-party online/mobile store from which you install the Application or make payments, including any in-game virtual items, which may also collect and use data about you. We are not responsible for any of the data collected by any such third party.
 
-COLLECTION OF YOUR INFORMATION
+### COLLECTION OF YOUR INFORMATION
 
 We may collect information about you in a variety of ways. The information we may collect via the Application depends on the content and materials you use, and includes:
 
 
-Personal Data
+### Personal Data
 
 While using our application, we may ask you to provide us with certain personally identifiable information (username, email address, phone number) that can be used to contact or identify you. Personally identifiable information may include, but is not limited to your name (“Personal Information”).
 
