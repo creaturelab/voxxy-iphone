@@ -44,14 +44,14 @@ Used for permissions that are associated with accessing microphone audio from th
 
 This permission allows this application to capture audio when you use our application to make audio or video calls.
 
-
+<br>
 NOTIFICATIONS
 
 Used for permissions that are associated with push notification and VoIP push notification.
 
 This permission allows this application to receive messages or alerts from our services.
 
-
+<br>
 CAMERA
 
 Used for permissions that are associated with accessing the camera or capturing images or videos from the device.
@@ -59,8 +59,9 @@ Used for permissions that are associated with accessing the camera or capturing 
 This permission allows this application to capture images or videos in order for them to be uploaded, send, or otherwise exchange with our services.
 
 By using our application, you grant to our application the right to have access and display all media content (e.g. audio & video recordings and text communications) that you upload, send, or otherwise exchange with our services, for the only purposes of operating our services. We only access to the files stored on your device when you send it in text messages with our application.
-
 <br>
+<br>
+
 ### USE OF YOUR INFORMATION
 
 Having accurate information about you permits us to provide you with a smooth, efficient, and customized experience. Specifically, we may use information collected about you via the Application to:
@@ -84,8 +85,9 @@ Having accurate information about you permits us to provide you with a smooth, e
 - Respond to product and customer service requests.
 
 - Solicit support for the Application.
-
 <br>
+<br>
+
 ### DISCLOSURE OF YOUR INFORMATION
 
 We may share information we have collected about you in certain situations. Your information may be disclosed as follows:
@@ -101,35 +103,41 @@ We may share your information with advertisers and investors for the purpose of 
 **Sale or Bankruptcy**
 
 If we reorganize or sell all or a portion of our assets, undergo a merger, or are acquired by another entity, we may transfer your information to the successor entity.  If we go out of business or enter bankruptcy, your information would be an asset transferred or acquired by a third party. You acknowledge that such transfers may occur and that the transferee may decline honor commitments we made in this Privacy Policy. We are not responsible for the actions of third parties with whom you share personal or sensitive data, and we have no authority to manage or control third-party solicitations. If you no longer wish to receive correspondence, emails or other communications from third parties, you are responsible for contacting the third party directly.
-
 <br>
+<br>
+
 ### TRACKING TECHNOLOGIES
 
 **Cookies and Web Beacons**
 
 We may use cookies, web beacons, tracking pixels, and other tracking technologies on the Application to help customize the Application and improve your experience.
-
 <br>
+<br>
+
 ### THIRD-PARTY WEBSITES
 
 The Application may contain links to third-party websites and applications of interest, including advertisements and external services, that are not affiliated with us. Once you have used these links to leave the Application, any information you provide to these third parties is not covered by this Privacy Policy, and we cannot guarantee the safety and privacy of your information. Before visiting and providing any information to any third-party websites, you should inform yourself of the privacy policies and practices (if any) of the third party responsible for that website, and should take those steps necessary to, in your discretion, protect the privacy of your information. We are not responsible for the content or privacy and security practices and policies of any third parties, including other sites, services or applications that may be linked to or from the Application.
-
 <br>
+<br>
+
 ### SECURITY OF YOUR INFORMATION
 
 We use administrative, technical, and physical security measures to help protect your personal information. While we have taken reasonable steps to secure the personal information you provide to us, please be aware that despite our efforts, no security measures are perfect or impenetrable, and no method of data transmission can be guaranteed against any interception or other type of misuse. Any information disclosed online is vulnerable to interception and misuse by unauthorized parties. Therefore, we cannot guarantee complete security if you provide personal information.
-
 <br>
+<br>
+
 ### POLICY FOR CHILDREN
 
 We do not knowingly solicit information from or market to children under the age of 13. If you become aware of any data we have collected from children under age 13, please contact us using the contact information provided below.
-
 <br>
+<br>
+
 ### CONTROLS FOR DO-NOT-TRACK FEATURES 
 
 Most web browsers and some mobile operating systems include a Do-Not-Track (“DNT”) feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. No uniform technology standard for recognizing and implementing DNT signals has been finalized. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this Privacy Policy.
-
 <br>
+<br>
+
 ### CONTACT US
 
 If you have questions or comments about this Privacy Policy, please contact us at:
