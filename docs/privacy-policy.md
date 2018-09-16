@@ -33,8 +33,7 @@ We may request access or permission to certain features from your mobile device,
 
 CONTACTS
 
-Used for permissions that are associated with accessing contact list from the device.
-
+Used for permissions that are associated with accessing contact list from the device.<br>
 This permission allows this application to imports your list of contacts from your phone’s address book. You can use our application to call/message to your friends/family by selecting their contact without entering their phone number.
 
 <br>
@@ -46,15 +45,13 @@ This permission allows this application to capture audio when you use our applic
 <br>
 NOTIFICATIONS
 
-Used for permissions that are associated with push notification and VoIP push notification.
-
+Used for permissions that are associated with push notification and VoIP push notification.<br>
 This permission allows this application to receive messages or alerts from our services.
 
 <br>
 CAMERA
 
-Used for permissions that are associated with accessing the camera or capturing images or videos from the device.
-
+Used for permissions that are associated with accessing the camera or capturing images or videos from the device.<br>
 This permission allows this application to capture images or videos in order for them to be uploaded, send, or otherwise exchange with our services.
 
 By using our application, you grant to our application the right to have access and display all media content (e.g. audio & video recordings and text communications) that you upload, send, or otherwise exchange with our services, for the only purposes of operating our services. We only access to the files stored on your device when you send it in text messages with our application.
