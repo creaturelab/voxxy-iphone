@@ -1,6 +1,9 @@
 PRIVACY POLICY
 
-Last Updated September 16, 2018
+Voxxy
+
+Last Updated September 15, 2018
+
 
 
 Creaturelab Network Solution Co.,Ltd. (“we” or “us” or “our”) respects the privacy of our users (“user” or “you”). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our mobile application (the “Application”). Please read this Privacy Policy carefully. IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT ACCESS THE APPLICATION.
@@ -8,7 +11,6 @@ Creaturelab Network Solution Co.,Ltd. (“we” or “us” or “our”) respec
 We reserve the right to make changes to this Privacy Policy at any time and for any reason. We will alert you about any changes by updating the “Last updated” date of this Privacy Policy. You are encouraged to periodically review this Privacy Policy to stay informed of updates. You will be deemed to have been made aware of, will be subject to, and will be deemed to have accepted the changes in any revised Privacy Policy by your continued use of the Application after the date such revised Privacy Policy is posted.
 
 This Privacy Policy does not apply to the third-party online/mobile store from which you install the Application or make payments, including any in-game virtual items, which may also collect and use data about you. We are not responsible for any of the data collected by any such third party.
-
 
 COLLECTION OF YOUR INFORMATION
 
@@ -63,27 +65,16 @@ By using our application, you grant to our application the right to have access 
 USE OF YOUR INFORMATION
 
 Having accurate information about you permits us to provide you with a smooth, efficient, and customized experience. Specifically, we may use information collected about you via the Application to:
-
-● Assist law enforcement and respond to subpoenas.
-
-● Create and manage your account.
-
-● Email you regarding your account or order.
-
-● Fulfill and manage purchases, orders, payments, and other transactions related to the Application.
-
-● Increase the efficiency and operation of the Application.
-
-● Monitor and analyze usage and trends to improve your experience with the Application.
-
-● Prevent fraudulent transactions, monitor against theft, and protect against criminal activity.
-
-● Resolve disputes and troubleshoot problems.
-
-● Respond to product and customer service requests.
-
-● Solicit support for the Application.
-
+? Assist law enforcement and respond to subpoenas.
+? Create and manage your account.
+? Email you regarding your account or order.
+? Fulfill and manage purchases, orders, payments, and other transactions related to the Application.
+? Increase the efficiency and operation of the Application.
+? Monitor and analyze usage and trends to improve your experience with the Application.
+? Prevent fraudulent transactions, monitor against theft, and protect against criminal activity.
+? Resolve disputes and troubleshoot problems.
+? Respond to product and customer service requests.
+? Solicit support for the Application.
 
 DISCLOSURE OF YOUR INFORMATION
 
@@ -101,28 +92,23 @@ Sale or Bankruptcy
 
 If we reorganize or sell all or a portion of our assets, undergo a merger, or are acquired by another entity, we may transfer your information to the successor entity.  If we go out of business or enter bankruptcy, your information would be an asset transferred or acquired by a third party. You acknowledge that such transfers may occur and that the transferee may decline honor commitments we made in this Privacy Policy. We are not responsible for the actions of third parties with whom you share personal or sensitive data, and we have no authority to manage or control third-party solicitations. If you no longer wish to receive correspondence, emails or other communications from third parties, you are responsible for contacting the third party directly.
 
-
 TRACKING TECHNOLOGIES
 
 Cookies and Web Beacons
 
 We may use cookies, web beacons, tracking pixels, and other tracking technologies on the Application to help customize the Application and improve your experience.
 
-
 THIRD-PARTY WEBSITES
 
 The Application may contain links to third-party websites and applications of interest, including advertisements and external services, that are not affiliated with us. Once you have used these links to leave the Application, any information you provide to these third parties is not covered by this Privacy Policy, and we cannot guarantee the safety and privacy of your information. Before visiting and providing any information to any third-party websites, you should inform yourself of the privacy policies and practices (if any) of the third party responsible for that website, and should take those steps necessary to, in your discretion, protect the privacy of your information. We are not responsible for the content or privacy and security practices and policies of any third parties, including other sites, services or applications that may be linked to or from the Application.
-
 
 SECURITY OF YOUR INFORMATION
 
 We use administrative, technical, and physical security measures to help protect your personal information. While we have taken reasonable steps to secure the personal information you provide to us, please be aware that despite our efforts, no security measures are perfect or impenetrable, and no method of data transmission can be guaranteed against any interception or other type of misuse. Any information disclosed online is vulnerable to interception and misuse by unauthorized parties. Therefore, we cannot guarantee complete security if you provide personal information.
 
-
 POLICY FOR CHILDREN
 
 We do not knowingly solicit information from or market to children under the age of 13. If you become aware of any data we have collected from children under age 13, please contact us using the contact information provided below.
-
 
 CONTROLS FOR DO-NOT-TRACK FEATURES 
 
@@ -134,11 +120,8 @@ CONTACT US
 If you have questions or comments about this Privacy Policy, please contact us at:
 
 Creaturelab Network Solution Co.,Ltd.
-
-357 Charansanitwong Rd., Bang-Bamru,
-
+357 Charansanitwong Rd., Bang-Bamru, 
 Bangphlat, Bangkok 10700, Thailand
-
 Phone: 02-433-4333
-
 engineer@creaturelab.co.th
+
