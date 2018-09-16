@@ -35,6 +35,7 @@ This permission allows this application to imports your list of contacts from yo
 
 
 MICROPHONE
+
 Used for permissions that are associated with accessing microphone audio from the device.
 
 This permission allows this application to capture audio when you use our application to make audio or video calls.
