@@ -1,8 +1,6 @@
-## PRIVACY POLICY
+### PRIVACY POLICY
 
 Last Updated September 16, 2018
-
-
 
 Creaturelab Network Solution Co.,Ltd. (“we” or “us” or “our”) respects the privacy of our users (“user” or “you”). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our mobile application (the “Application”). Please read this Privacy Policy carefully. IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT ACCESS THE APPLICATION.
 
