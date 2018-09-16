@@ -1,8 +1,6 @@
-PRIVACY POLICY
+## PRIVACY POLICY
 
-Voxxy
-
-Last Updated September 15, 2018
+Last Updated September 16, 2018
 
 
 
