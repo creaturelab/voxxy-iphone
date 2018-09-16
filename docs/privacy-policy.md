@@ -117,8 +117,11 @@ CONTACT US
 If you have questions or comments about this Privacy Policy, please contact us at:
 
 Creaturelab Network Solution Co.,Ltd.
-357 Charansanitwong Rd., Bang-Bamru, 
-Bangphlat, Bangkok 10700, Thailand
-Phone: 02-433-4333
-engineer@creaturelab.co.th
 
+357 Charansanitwong Rd., Bang-Bamru,
+
+Bangphlat, Bangkok 10700, Thailand
+
+Phone: 02-433-4333
+
+engineer@creaturelab.co.th
