@@ -12,44 +12,44 @@ This Privacy Policy does not apply to the third-party online/mobile store from w
 
 We may collect information about you in a variety of ways. The information we may collect via the Application depends on the content and materials you use, and includes:
 
-### Personal Data
+**Personal Data**
 
 While using our application, we may ask you to provide us with certain personally identifiable information (username, email address, phone number) that can be used to contact or identify you. Personally identifiable information may include, but is not limited to your name (“Personal Information”).
 
-### Derivative Data
+**Derivative Data**
 
 Information our servers automatically collect when you access the Application, such as your native actions that are integral to the Application, including interactions with the Application via server log files. This log data may include information such as your phone’s Internet Protocol (“IP”) address, the time and date of your visit, the time spent on the Application and other statistics.
 
 In addition, we may use third party services that collect, monitor and analyze this.
 
-### Mobile Device Access
+**Mobile Device Access**
 
 We may request access or permission to certain features from your mobile device, including your mobile device’s camera, microphone, and other features. If you wish to change our access or permissions, you may do so in your device’s settings.
 
-### Privacy-relevant permissions requested by this app
+**Privacy-relevant permissions requested by this app**
 
-CONTACTS
+**CONTACTS**
 
 Used for permissions that are associated with accessing contact list from the device.
 
 This permission allows this application to imports your list of contacts from your phone’s address book. You can use our application to call/message to your friends/family by selecting their contact without entering their phone number.
 
 
-MICROPHONE
+**MICROPHONE**
 
 Used for permissions that are associated with accessing microphone audio from the device.
 
 This permission allows this application to capture audio when you use our application to make audio or video calls.
 
 
-NOTIFICATIONS
+**NOTIFICATIONS**
 
 Used for permissions that are associated with push notification and VoIP push notification.
 
 This permission allows this application to receive messages or alerts from our services.
 
 
-CAMERA
+**CAMERA**
 
 Used for permissions that are associated with accessing the camera or capturing images or videos from the device.
 
