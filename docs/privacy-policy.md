@@ -34,7 +34,7 @@ We may request access or permission to certain features from your mobile device,
 CONTACTS
 
 Used for permissions that are associated with accessing contact list from the device.<br>
-This permission allows this application to imports your list of contacts from your phone’s address book. You can use our application to call/message to your friends/family by selecting their contact without entering their phone number.
+This permission allows this application to imports your list of contacts from your phone’s address book. You can use our application to call/message to your friends/family by selecting their contact without entering their phone number. This permission is for application use only. We do not upload your contacts to our server.
 
 MICROPHONE
 
